@@ -1,4 +1,4 @@
-# 📘 ETAPA 1 – FUNDAMENTOS TEÓRICOS**
+# 📘 ETAPA 1 – FUNDAMENTOS TEÓRICOS
 
 1.  Introdução aos Sistemas Dinâmicos
 
